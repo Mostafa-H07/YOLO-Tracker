@@ -33,13 +33,12 @@ https://github.com/user-attachments/assets/fa465aae-d491-4cd0-b85f-fe5e724570c6
 Here is a link for a diverse dataset you could use to test the program: https://drive.google.com/file/d/1rP2uvNpDNz6TuP_QBM_hbt0Ojbxk-FJN/view?usp=sharing
 
 ## Contributers
-- Mostafa Hany
-- Mostafa Hazem
+- Mostafa Hany Mostafa
+- Mostafa Hany Tawfiq
 - Muhammad Nasser
 
 ## 🧾 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Yolo-Tracker/blob/88213e57aed8dddef7cd29e1c519e7247958e2b6/LICENSE) for details.
 
 ## 📞 Contact
-Email: Mostafahany4705@gmail.com <br>
-LinkedIn: www.linkedin.com/in/mostafahany4705
+Email: mostafa.ibrahim07@gmail.com <br>
