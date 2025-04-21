@@ -38,7 +38,7 @@ Here is a link for a diverse dataset you could use to test the program: https://
 - Muhammad Nasser
 
 ## 🧾 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Yolo-Tracker/blob/88213e57aed8dddef7cd29e1c519e7247958e2b6/LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mostafa-H07/YOLO-Tracker/blob/cb941795daf0c9d6dec094ddf3f7544447097894/LICENSE) for details.
 
 ## 📞 Contact
 Email: mostafa.ibrahim07@gmail.com <br>
